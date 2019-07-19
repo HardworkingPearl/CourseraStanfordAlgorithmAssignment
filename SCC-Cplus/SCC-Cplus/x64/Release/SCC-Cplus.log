@@ -1,0 +1,14 @@
+﻿  SCC-Cplus.cpp
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(124): warning C4566: character represented by universal-character-name '\u6587' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(124): warning C4566: character represented by universal-character-name '\u4EF6' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(124): warning C4566: character represented by universal-character-name '\u6253' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(124): warning C4566: character represented by universal-character-name '\u5F00' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(124): warning C4566: character represented by universal-character-name '\u5931' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(124): warning C4566: character represented by universal-character-name '\u8D25' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(124): warning C4566: character represented by universal-character-name '\uFF01' cannot be represented in the current code page (1252)
+  Generating code
+  3 of 993 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SCC-Cplus.vcxproj -> H:\Algo\SCC-Cplus\x64\Release\SCC-Cplus.exe

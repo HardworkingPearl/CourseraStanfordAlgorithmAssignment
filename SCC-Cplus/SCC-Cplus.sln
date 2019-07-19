@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCC-Cplus", "SCC-Cplus\SCC-Cplus.vcxproj", "{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Debug|x64.ActiveCfg = Debug|x64
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Debug|x64.Build.0 = Debug|x64
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Debug|x86.Build.0 = Debug|Win32
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Release|x64.ActiveCfg = Release|x64
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Release|x64.Build.0 = Release|x64
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Release|x86.ActiveCfg = Release|Win32
+		{BCC96A75-EB7B-4A1E-8680-E90DAED48A53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD24DC00-6756-4763-889F-B6F8E9399040}
+	EndGlobalSection
+EndGlobal

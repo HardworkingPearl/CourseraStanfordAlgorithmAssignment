@@ -1,0 +1,11 @@
+﻿  SCC-Cplus.cpp
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(15): warning C4005: '_ITERATOR_DEBUG_LEVEL': macro redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(121): note: see previous definition of '_ITERATOR_DEBUG_LEVEL'
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(122): warning C4566: character represented by universal-character-name '\u6587' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(122): warning C4566: character represented by universal-character-name '\u4EF6' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(122): warning C4566: character represented by universal-character-name '\u6253' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(122): warning C4566: character represented by universal-character-name '\u5F00' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(122): warning C4566: character represented by universal-character-name '\u5931' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(122): warning C4566: character represented by universal-character-name '\u8D25' cannot be represented in the current code page (1252)
+h:\algo\scc-cplus\scc-cplus\scc-cplus.cpp(122): warning C4566: character represented by universal-character-name '\uFF01' cannot be represented in the current code page (1252)
+  SCC-Cplus.vcxproj -> H:\Algo\SCC-Cplus\x64\Debug\SCC-Cplus.exe
